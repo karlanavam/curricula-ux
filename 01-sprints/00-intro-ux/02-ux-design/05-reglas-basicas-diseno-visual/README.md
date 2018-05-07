@@ -22,6 +22,7 @@ diseñado que sea fácil de entender, usar y leer.
 
 ![contraste](https://lh4.googleusercontent.com/LxHa3VDIBcEWTDarq81_KZu2mmXV01jH0Mkcsv-U_aFJcYoj_3PKENBght30qk0ziYtfcn3PfKOBrNYW7FXS_qmo7sNIAvMRft-R5lUJSEvnzQI8qjwURF34xZmW7qjtN67aYRXm)
 
+
 El color del fondo y de la tipografía tienen que ser lo suficientemente
 diferentes para no esforzar al ojo. Texto negro sobre fondo blanco suele ser la
 opción más legible. Grises claros, amarillo y verde son colores complicados. Si
@@ -29,7 +30,7 @@ tienes que bizquear para leerlo entonces no hay contraste suficiente.
 
 ### Regla #2: Casi negro es más fácil de leer que negro
 
-![casi negro](https://lh6.googleusercontent.com/h1HXdmTcDE86MRejWUcv2rfS42fW0J9IETwz7VXzEzHHAuQrmjeFg0lrL0zU8auUmQ0HC7nqX3lZZyM1Jw9JUDHs1ql1WhA5Sa6gY6PR6_Us0fb4YfjAg9szeEPxWzRWzP4I00K2)
+![casi negro](https://image.ibb.co/dRDV4S/contraste.jpg)
 
 Si tienes la opción, intenta usar el color #333333 en vez de negro para texto.
 Negro sobre blanco crea un efecto de movimiento para el ojo y es más difícil
@@ -108,7 +109,7 @@ Aquí está todo alineado al grid. Se ve más limpio y la página es más legibl
 No estamos diseñando para hormigas. Agrandar el texto y darle espacio suficiente
 entre las líneas lo hace más fácil de leer y digerir.
 
-### Regla #6: Si orden es importante, poner los resultados en lista
+### Regla #6: Si el orden es importante, poner los resultados en lista
 
 ![image alt text](https://lh6.googleusercontent.com/9iCdkbx9ZCZADgIFhYS_fSpFHkTvSEOBnNVzLZhj9EHXUfcYZ73SOtMB97cqAwSCkakBIawYFog0fVaqZGyoDykFQrsML5zjFqbXiBm4AWyVRS-9X_PbIK13oXpZmlrakeqzygn7)
 
@@ -127,7 +128,7 @@ población mundial es zurda entonces normalmente diseñamos pensando en diestros
 Por esto, muchos apps móviles ponen la navegación y acciones principales en la
 parte de abajo de las pantallas móviles.
 
-### Regla #8: Diseñar primero en blanco y negro, agregar color después
+### Regla #8: Diseñar primero en blanco y negro, y agregar color después
 
 ![image alt text](https://lh5.googleusercontent.com/eYBg_0C-Zs8gBgmPZrF3zi-GLb1lXHMD1EzI-wKNl0py_wnmxXFlxzM7tZkJmdCPfJfrXIsjY-i9VVKB3BVqDx6k3LtfYy8BjfaFmI-WjFRHRWpgCOAwfiIuZ46Vz6g0CHXCrYYJ)
 
@@ -149,8 +150,9 @@ normalmente sería el color principal de la marca.
 Lograr una paleta de color que se vea muy bien es un poco arte oscuro entonces
 por el momento podemos tomar paletas prestadas de
 [Dribbble](https://dribbble.com/search?q=color+palettes) (buscar `Color
-Palettes` y encontrar alguna que te guste) o
-[Adobe Color CC](https://color.adobe.com/create/color-wheel/).
+Palettes` y encontrar alguna que te guste) ,
+[Adobe Color CC](https://color.adobe.com/create/color-wheel/) o
+[Coolors](https://coolors.co/).
 
 ## Ejercicio
 
@@ -182,10 +184,14 @@ para ancianos que quieran agendar citas con sus compañeros del dominó.
 ### Mejoras
 
 Una vez definidos estos puntos, que cada alumna tome la página y la mejore según
-las 5 reglas que vimos en esta unidad:
+las 9 reglas que vimos en esta unidad:
 
 1. Contraste
 1. Casi negro
 1. Contenido importante primero (jerarquia)
 1. Alinear todo
 1. Tamaño y espaciado del texto
+1. Si el orden es importante, poner los resultados en lista
+1. Crear diseño cómodos
+1. Diseñar primero en blanco y negro, y agregar color después
+1. Tomar paletas de color prestadas
